@@ -1,0 +1,17 @@
+body.about {
+  background-image: url('/images/emilia-about_720.jpg');
+  background-size: 75%;
+  background-repeat: no-repeat;
+  background-position: right top;
+  overflow: hidden;
+}
+
+.about__main__section {
+  margin-left: 30px;
+  color: #19947d;
+}
+
+.about__main__section h3 {
+  font-size: 27px;
+  font-weight: 400;
+}
