@@ -1,0 +1,25 @@
+.contact h2 {
+  font-family: var(--tipografiaTitulos);
+  text-transform: uppercase;
+}
+
+.contact h4 {
+  color: var(--colorVerdeTitulos);
+}
+
+.contact__main__section--data article {
+  margin-bottom: 40px;
+}
+
+.contact__main__section--data h2 {
+  margin-top: 55px;
+}
+
+.contact__main__section--data article p {
+  line-height: 7px;
+}
+
+.contact__main__section--data article p a {
+  color: rgb(160, 160, 160);
+  font-weight: 600;
+}

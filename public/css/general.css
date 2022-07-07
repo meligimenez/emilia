@@ -6,6 +6,7 @@ font-family: 'Work Sans', sans-serif; */
   --tipografiaTitulos: 'Raleway';
   --tipografiaEmilia: 'Work Sans';
   --tipografiaGeneral: 'Open Sans';
+  --colorVerdeTitulos: #19947d;
 }
 
 body {
