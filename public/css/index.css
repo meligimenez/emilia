@@ -1,0 +1,20 @@
+body.index {
+  background-image: url('/images/emilia-home.jpg');
+  background-size: 75%;
+  background-repeat: no-repeat;
+  background-position: right -100px;
+}
+
+.index h1 {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.index h2 {
+  text-transform: uppercase;
+  font-family: var(--tipografiaEmilia);
+  line-height: 35px;
+  margin: 150px 0px 160px 30px;
+  font-size: 37px;
+  font-weight: 100;
+  letter-spacing: 1px;
+}
